@@ -14,11 +14,17 @@ The Jupyter file contains the information for the assignment. This can be downlo
     Or copy and paste one of these URLs:
         http://localhost:8888/?token=ac837352d129436cef7542e69302d3e925fd4d16df021892
         
-In the command line interface, type:
+To run Jupyter lab or notebook, in the command line interface, type either:
 
 jupyter lab
 
-To run Jupyter lab and open the Jupyter file in preferrably a Chrome or Firefox brwoser.
+OR
+
+jupyter notebook
+
+Open the Jupyter file in preferrably a Chrome or Firefox browser.
+
+A CSV file of the tips data set is included in the repository for interest and my own learning but it is known that the tips data set already comes installed with the seaborn package.
 
 
         
